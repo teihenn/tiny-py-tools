@@ -1,4 +1,7 @@
 # tiny-py-tools
+
 Collection of small yet handy Python tools for everyday tasks.
 
-a
+## tools list
+
+- delete_old_dirs.py
